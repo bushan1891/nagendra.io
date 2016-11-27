@@ -1,0 +1,20 @@
+{
+  "name": "Portfolio-Website-",
+  "homepage": "https://github.com/bushan1891/Portfolio-Website-",
+  "authors": [
+    "bushan nagendra <bushan1891@gmail.com>"
+  ],
+  "description": "this is for pojects",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
