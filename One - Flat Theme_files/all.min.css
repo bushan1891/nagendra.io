@@ -6892,7 +6892,7 @@ section .centered{
 }
 
 .navbar-flat{
-	background:#d82c2e;
+	background:#c12728;
 	margin-bottom:0;
 	-webkit-border-radius:0;
 	-moz-border-radius:0;
@@ -6939,7 +6939,7 @@ section .centered{
 }
 
 .hero{
-	background:#d82c2e;
+	background:#c12728;
 	color:#fff
 }
 
@@ -7095,7 +7095,7 @@ section .centered{
 }
 
 section.skills{
-	background:#d82c2e
+	background:#c12728;
 }
 
 section.skills h4{
@@ -7596,7 +7596,7 @@ footer .github:hover{
 
 footer .twitter{
 	background:url(twitter.png) center no-repeat #444749;
-	
+
 	background-size:50px;
 }
 
